@@ -26,16 +26,18 @@ Open terminal and try execute some kali linux commands
 Following Categories of pen test tools are identified:
 Information Gathering.
 
-Google Hacking:
+## Google Hacking:
 
 Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
 
-site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
+## site:
+This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
 ![Screenshot from 2024-09-21 18-15-49](https://github.com/user-attachments/assets/906b34ea-3ec6-442f-9754-85f81d661591)
 
-filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
+## filetype: 
+This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
 ### Output:
@@ -43,35 +45,40 @@ Following searches for pdf file in the domain yahoo.com
 ![eh](https://github.com/user-attachments/assets/cf761a27-2d17-4676-9688-d41708fbbdfd)
 
 
-intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+## intext:
+This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
 ### Output:
 
 ![Screenshot from 2024-09-21 18-19-04](https://github.com/user-attachments/assets/fb3d097f-0a27-4cc4-b864-8159e72a00c3)
 
 
-inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+## inurl: 
+This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
 ### Output:
 
 ![Screenshot from 2024-09-21 18-19-52](https://github.com/user-attachments/assets/1f855bee-0bc2-443a-a816-04a0eaafa4d4)
 
 
-intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+## intitle:
+This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
 ### Output:
 
 ![eh1](https://github.com/user-attachments/assets/a54a8535-749b-4b8e-8b07-305250af66d1)
 
 
-link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+## link:
+This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
 ### Output:
 
 ![Screenshot from 2024-09-21 18-22-02](https://github.com/user-attachments/assets/6b838977-500d-45e4-9afe-c3574974aae5)
 
 
-cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+## cache:
+This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 ### Output:
 ![Screenshot from 2024-09-21 18-22-30](https://github.com/user-attachments/assets/119c8d0d-ef5a-4f0c-92d8-3db9f70e672b)
 
